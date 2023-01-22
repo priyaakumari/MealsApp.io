@@ -9,7 +9,7 @@
 
 body {
     width: 100%;
-    background-color:#212529;
+    background-color:skyblue;
     color: white;
 }
 
@@ -37,7 +37,7 @@ body {
 
 /* meal card */
 #card {
-    background-color: #FF3044;
+    background-color: green;
     padding: 10px;
     color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -51,9 +51,9 @@ body {
 /* meal details container */
 #meal-details{
     width: 100%;
-    padding: 20px;
-    border-radius: 20px;
-    background-color:#FF3044 ;
+    padding: 15px;
+    border-radius: 15px;
+    background-color:green ;
 }
 #meal-header{
     width: 70%;
@@ -62,7 +62,7 @@ body {
 #meal-thumbail img{
     height: 250px;
     width: 250px;
-    border-radius: 50%;
+    border-radius: 100%;
 }
 #details{
     display: flex;
@@ -81,5 +81,5 @@ body {
 
 /* favourites offcanvus */
 #favourites-body{
-    background-color:#212529 ;
+    background-color:green ;
 }
