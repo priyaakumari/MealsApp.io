@@ -1,4 +1,5 @@
 # MealsApp.io
 
-know about your favourites meals This is a single page website where you can seach about any meal and you can also add it into on your favourite list
+You can search for your meals and can get more information on that and also watch videos related to the dish and can also add your favourite dish into favourite list section.
+
 
